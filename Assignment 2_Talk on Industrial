@@ -1,0 +1,1 @@
+pandoc Assignment2 Talk on Industrial.pdf -o output.md
